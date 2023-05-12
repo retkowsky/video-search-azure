@@ -14,3 +14,5 @@ Process
 
 Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
+
+12-May-2022 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/

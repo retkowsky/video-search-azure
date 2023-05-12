@@ -8,5 +8,9 @@ Process
 - Visual search using a reference image or a prompt
 - An example of a webapp using GRADIO
 
+<img src="example1.jpg">
+
+<img src="example2.jpg">
+
 Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview

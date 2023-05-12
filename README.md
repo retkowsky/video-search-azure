@@ -1,1 +1,12 @@
-# video-search-azure
+# Video search with Azure Computer Vision 4 (Florence)
+
+A quick prototype of a video analytics solution to analyse content from a video.
+
+Process
+- Frames extraction from a video file
+- Images vectors embeddings using Azure Computer Vision 4
+- Visual search using a reference image or a prompt
+- An example of a webapp using GRADIO
+
+Documentation
+https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview

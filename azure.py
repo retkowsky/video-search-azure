@@ -379,11 +379,9 @@ def video_details(video_filename):
     fps = int(cap.get(cv2.CAP_PROP_FPS))
     nbframes = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     duration = nbframes / fps
-    duration_min = duration / 60
 
     print(f"Video filename: {video_filename}")
     print(f"Video duration in secs = {duration:.2f} seconds")
-    print(f"Video duration in mins = {duration_min:.2f} mins")
     print(f"Frames per second: {fps}")
     print(f"Total number of frames: {nbframes}")
 
